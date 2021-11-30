@@ -6,5 +6,5 @@ The high-resolution SAR offshore farm data set is derived from the SAR data of H
 
 The data set has a total of 4000 images, including 2400 training samples, 800 verification samples, and 800 test samples.  
 
-
+The data set can be used for academic research and is prohibited for any commercial use!!!!
 
