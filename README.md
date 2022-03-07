@@ -8,3 +8,6 @@ The data set has a total of 4000 images, including 2400 training samples, 800 ve
 
 The data set can be used for academic research and is prohibited for any commercial use!!!!
 
+please cite   
+[1] 2021 Gaofen Challenge on Automated High-Resolution Earth Observation Image Interpretation. Online: http://gaofen-challenge.com
+
