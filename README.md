@@ -10,4 +10,3 @@ The data set can be used for academic research and is prohibited for any commerc
 
 please cite   
 [1] 2021 Gaofen Challenge on Automated High-Resolution Earth Observation Image Interpretation. Online: http://gaofen-challenge.com
-
